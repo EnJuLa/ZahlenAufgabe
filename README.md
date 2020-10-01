@@ -20,3 +20,7 @@ welche von der Klasse "Kuerzen" aufgerufen wird.
 ## Schritt 7
 Es wurde eine html-Dokumentation mit hilfe von Doxygen ertsellt.
 
+## Schritt 9
+Bei Schritt 9 sollte mit Hilfe von LogBack ein Logging erzeugt werden. Die Übungsaufgaben im Script konnte ich ganz gut bearbeiten,
+bei der Prüfungsleistung hat es leider vorne und hinten nicht klappen wollen.
+Somit fehlt dieser Schritt leider in meiner Abgabe.
