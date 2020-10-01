@@ -17,3 +17,6 @@ In der Klasse "Kuerzen" kann ein Bruch vorgegeben werden, der in seiner gekürzt
 Zum kürzen des Bruchs wurde die Klasse "Bruchkuerzen" angelegt. In dieser Klasse befindet sich die Methode 'kuerzen()', 
 welche von der Klasse "Kuerzen" aufgerufen wird.
 
+## Schritt 7
+Es wurde eine html-Dokumentation mit hilfe von Doxygen ertsellt.
+
