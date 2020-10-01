@@ -1,7 +1,12 @@
 package numbers;
 
+
+
 public class Bruchkuerzen 
 	{
+	
+	
+	
  public int zaehler;
  public int nenner;
 			
@@ -17,8 +22,6 @@ public class Bruchkuerzen
 			nenner = pNenner;
 		}
 	}
-
-
 	public void kuerze() {
 		int faktor = ggT();
 		zaehler = zaehler / faktor;
@@ -27,21 +30,17 @@ public class Bruchkuerzen
 			zaehler = -zaehler;
 			nenner = -nenner;
 		}
-		}
-	
-	public int getZaehler() {
+	}
+		public int getZaehler() {
 		return zaehler;
 	}
-	
-	public int getNenner() {
+		public int getNenner() {
 		return nenner;
 	}
-	
-	public String toString() {
+		public String toString() {
 		return zaehler + "/"+nenner;
 	}
-	
-	private int ggT() {
+		private int ggT() {
 		int a = zaehler;
 		int b = nenner;
 		int h;
