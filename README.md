@@ -24,3 +24,7 @@ Es wurde eine html-Dokumentation mit hilfe von Doxygen ertsellt.
 Bei Schritt 9 sollte mit Hilfe von LogBack ein Logging erzeugt werden. Die Übungsaufgaben im Script konnte ich ganz gut bearbeiten,
 bei der Prüfungsleistung hat es leider vorne und hinten nicht klappen wollen.
 Somit fehlt dieser Schritt leider in meiner Abgabe.
+
+## Schritt 11-13
+Es wird ein Maven-Build fur das Maven-Projekt "ZahlenAufgabe" ausgeführt und anschließend eine HTML-Dokumentation erstellt.
+
